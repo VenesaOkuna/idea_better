@@ -4,7 +4,7 @@ Idea Better
 
 ## Author
 
-<p> click --> </p> [VenesaOkuna](https://github.com/VenesaOkuna) <p> to see profile. </p>
+  [VenesaOkuna](https://github.com/VenesaOkuna) <-- click to see profile.
 
 ## Date
 
